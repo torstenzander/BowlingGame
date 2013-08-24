@@ -1,0 +1,15 @@
+{
+    "name": "torstenzander/php-kickstarter",
+    "description": "description_text",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Torsten Zander",
+            "email": "info@tzander.de"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "3.7.24",
+        "mockery/mockery": "0.8.0"
+    }
+}
